@@ -4,7 +4,7 @@
 
 ## High-Fidelity Prototype
 
-My high-fidelity prototype can be found ![here](https://www.figma.com/proto/3KVvLhIFcdui8PiMWYauCT/DH150-Assignment7-HighFidelityPrototype?node-id=29%3A4&scaling=min-zoom)
+My high-fidelity prototype can be found [here](https://www.figma.com/proto/3KVvLhIFcdui8PiMWYauCT/DH150-Assignment7-HighFidelityPrototype?node-id=29%3A4&scaling=min-zoom)
 
 ## About the Project 
 
