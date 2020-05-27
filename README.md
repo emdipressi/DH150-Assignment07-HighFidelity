@@ -23,6 +23,10 @@ Blue was the original color used on website, so I decided to stick with the curr
 ![distinctscreens](3distinctivescreens.png)
 
 I have four distinctive screens: Home, Safety, Local Weather, and Drought/Wildfire. Some of these screens have slightly varying designs and information.
+
+### Color Contrast 
+I used the “Contrast” plugin on Figma (instead of Stark) to check the color contrast on an AA level. It shows somethings as failing, but when clicking on it individually it passes. I checked this for all items that were marked failed and made sure they all passed. 
+image
  
 ## Testing 
 
