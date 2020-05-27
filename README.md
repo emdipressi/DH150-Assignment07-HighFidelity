@@ -38,6 +38,10 @@ Task two is to find drought conditions for a users desired location. After navig
 
 ### Task Three
 Task three is to find wildfire watch and warning. To find this information, the user will navigate to weather.gov and from the home page, they will click on “Safety”. Once in the “Safety” page, the user will find “Wildfire” towards the bottom of the page, as the safety options are alphabetized. To find the watch and warning areas, the user will click on the “Watch vs. Warning” tab above the picture. The user will be presented with a partial map of the United States with a key that identifies the areas that are under watch and under warning. If the users area of concern is not in the map pre-set, the user will scroll down to under the map and will find “See more fire watch and warnings here” this will take the user to a full map of the United States with areas highlighted in pink and yellow with another key that explains each colors meaning. Once here, the user may click on “Safety” again to look at other safety topics or they can click on the “National Weather Service” text or icons or click “Home” and the user can navigate to another page from there.
+
+### Interactive Wireflow 
+
+![wireflow](9interactions.png)
  
 ## Testing 
 
