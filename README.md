@@ -54,7 +54,7 @@ Task three is to find wildfire watch and warning. To find this information, the 
 
 > “Sometimes I was unaware what was clickable and what was not.”
 
-> “I like that the button turns blue when you visit the page.”
+> “It’s clean and minimalist.”
 
 #### Findings
 text here
