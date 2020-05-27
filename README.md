@@ -28,6 +28,17 @@ I have four distinctive screens: Home, Safety, Local Weather, and Drought/Wildfi
 I used the “Contrast” plugin on Figma (instead of Stark) to check the color contrast on an AA level. It shows somethings as failing, but when clicking on it individually it passes. I checked this for all items that were marked failed and made sure they all passed. 
 image
  
+## Tasks 
+
+### Task One
+Task one is to find the hourly weather for a users current location. To do this the user will first navigate to weather.gov. From the home page the user will input their zip code or city and state into the search widget and press “Go”. After being brought to the “Current Conditions” page for their location, the user will click on “Hourly Weather Forecast here”. The user will then be on the page that has the hourly weather report for their location. If the user wants more detailed information by the hour they can click on “Find more details here”. The user can search weather for another location with the search bar. They can also click on “Safety” in the top menu bar. To go home from any of the pages in this sequence the user can click on “Home” or the “National Weather Service” text bar and either image in that bar. 
+
+### Task Two 
+Task two is to find drought conditions for a users desired location. After navigating to weather.gov, from the home page, the user will click on “Safety” in the top menu line up. From “Safety”, now highlighted in blue, the user can choose from an array of safety concerns. They will choose “Drought Safety”. To find current conditions, the user will click on “Monitoring, Forecasts” and from that tab page, they will enter the location they wish to see and click “Go”. The user will be taken to a page that has information provided by drought.gov about the current drought conditions in their area. They can search another location from this page if they wish to see conditions in other areas. To go back the user can navigate back to “Safety” and search more safety features or click on “Home” or “National Weather Service” and the icons in the top bar as well. This works from every page along the journey.
+
+### Task Three
+Task three is to find wildfire watch and warning. To find this information, the user will navigate to weather.gov and from the home page, they will click on “Safety”. Once in the “Safety” page, the user will find “Wildfire” towards the bottom of the page, as the safety options are alphabetized. To find the watch and warning areas, the user will click on the “Watch vs. Warning” tab above the picture. The user will be presented with a partial map of the United States with a key that identifies the areas that are under watch and under warning. If the users area of concern is not in the map pre-set, the user will scroll down to under the map and will find “See more fire watch and warnings here” this will take the user to a full map of the United States with areas highlighted in pink and yellow with another key that explains each colors meaning. Once here, the user may click on “Safety” again to look at other safety topics or they can click on the “National Weather Service” text or icons or click “Home” and the user can navigate to another page from there.
+ 
 ## Testing 
 
 ### Impression Test
