@@ -20,7 +20,8 @@ Blue was the original color used on website, so I decided to stick with the curr
 
 ### Distinct Screens 
 
-![distinctscreens(3distinctivescreens)
+![distinctscreens](3distinctivescreens.png)
+
 I have four distinctive screens: Home, Safety, Local Weather, and Drought/Wildfire. Some of these screens have slightly varying designs and information.
  
 ## Testing 
