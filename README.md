@@ -27,7 +27,7 @@ I have four distinctive screens: Home, Safety, Local Weather, and Drought/Wildfi
 ### Color Contrast 
 I used the “Contrast” plugin on Figma (instead of Stark) to check the color contrast on an AA level. It shows somethings as failing, but when clicking on it individually it passes. I checked this for all items that were marked failed and made sure they all passed. 
 
-![gogood](gogood.png) | ![gobad](gobad)
+![gogood](gogood.png) | ![gobad](gobad.png)
 ---------------------- | --------------
 ![actgood](actgood.png) | ![actbad](actbad.png) 
  
