@@ -14,6 +14,14 @@ My project focuses on weather.gov. This site has functions for basic weather sea
 ### High-Fidelity
 The high-fidelity prototype is the last step in this process of usability testing, user study, design, and low-fidelity prototyping. The purpose of this high-fidelity prototype is to test visually how the website will look and function. It can test the color, size, placement, and overall organization of the webpage before being programmed as a live site. My high fidelity prototype is for weather.gov. The tasks that are functional on this prototype are searching for the hourly weather for a specific location, checking the drought conditions for a current location, and searching for fire watch/warning information, and to navigate back to the homepage.
 
+## Design 
+### Design Decisions 
+Blue was the original color used on website, so I decided to stick with the current theme. I also know that blue is a colorblind friendly color, so that was another reason for choosing blue. One of the personas I created was colorblind, so I needed to make sure that it would work with everyone. Another function that I wanted to make sure that was included for the user was a way to show what page the user was on. Wherever possible I changed the text color or background color of a text box/button to give feedback to the user about where they were in the website if they got lost, or wanted an easy way to navigate back to the page they were on last. I also tried to keep things minimalist with a white background, black text, and blue and grey accents. The most important part of this website is the important information the user is searching for, they do not need to be distracted by lots of colors or excessive images. When images are used, they are used in to be a quicker identifier for the user: such as a sun icon for sunny weather or a wilting plant for drought. This website was designed for people who want important and detailed information and I tried to convey that with the new design. 
+
+### Distinct Screens 
+
+![distinctscreens(3distinctivescreens)
+I have four distinctive screens: Home, Safety, Local Weather, and Drought/Wildfire. Some of these screens have slightly varying designs and information.
  
 ## Testing 
 
