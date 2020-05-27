@@ -57,7 +57,7 @@ Task three is to find wildfire watch and warning. To find this information, the 
 > “It’s clean and minimalist.”
 
 #### Findings
-text here
+The impression test went well. The biggest takeaway from the impression test concerned what was clickable and not clickable. Some did not like the underlined words and others could not tell if non-underlined words were clickable. Some users also wanted the search box to be in a different location. 
 
 ### Cognitive Walk Through 
 #### Quotes 
