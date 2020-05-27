@@ -21,6 +21,7 @@ The high-fidelity prototype is the last step in this process of usability testin
 
 ## Cognitive Walk Through 
 > “I feel like the search bar could be bigger and more attention grabbing”
+
 > “The menu has really good and relevant info!” 
 
 
