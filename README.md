@@ -25,11 +25,14 @@ The high-fidelity prototype is the last step in this process of usability testin
 > “I like that the button turns blue when you visit the page.”
 
 ### Cognitive Walk Through 
+#### Quotes 
 > “I feel like the search bar could be bigger and more attention grabbing”
 
 > “The menu has really good and relevant info!” 
 
 > "The grey background might be kind of redundant. Keep it white or reduce the space."
 
+#### Evidence
 ![walkthrough](cognitive.png)
+#### Findings
 From the cognitive walkthrough, I got feedback about making some elements of the webpage larger, such as the search location and some of the text on the pages. In order to make things more apparent I changed the color, such as the warning on the homepage from grey to red, and I moved the search function to be in a higher spot on the drought conditions page. I also got mixed feedback on knowing what was clickable and what wasn’t i.e. are underlined words clickable or not. 
