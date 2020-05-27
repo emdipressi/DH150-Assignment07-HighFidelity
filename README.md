@@ -17,12 +17,16 @@ The high-fidelity prototype is the last step in this process of usability testin
  
 ## Testing 
 
-### Impression Test 
+### Impression Test
+#### Quotes 
 > “I think I can learn about potential incoming natural disasters, how to stay safe under certain weather conditions, and other relevant weather information.”
 
 > “Sometimes I was unaware what was clickable and what was not.”
 
 > “I like that the button turns blue when you visit the page.”
+
+#### Findings
+text here
 
 ### Cognitive Walk Through 
 #### Quotes 
